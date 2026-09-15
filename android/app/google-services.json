@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856321449616",
+    "project_id": "agronew-3fa34",
+    "storage_bucket": "agronew-3fa34.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856321449616:android:2dccddfe2bc932a3714215",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBwYV8-yZqmXTtT5gw90n-u1hejPkFtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
